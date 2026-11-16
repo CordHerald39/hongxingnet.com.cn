@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img">
+<title>红杏云品牌纸雕插画</title>
+<desc>杏果与打开的拱门，象征从容进入新的空间。 原创可编辑矢量图，无外部素材。</desc>
+<defs>
+  <linearGradient id="hongxing-paper" x1="0" y1="0" x2=".85" y2="1"><stop stop-color="#ffffff"/><stop offset=".6" stop-color="#f7f9f8"/><stop offset="1" stop-color="#e5ebe7"/></linearGradient>
+  <linearGradient id="hongxing-accent" x1=".15" y1="0" x2=".85" y2="1"><stop stop-color="#d99f9b"/><stop offset="1" stop-color="#b4433b"/></linearGradient>
+  <linearGradient id="hongxing-accentSoft" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6e8e7"/><stop offset=".5" stop-color="#ecd0ce"/><stop offset="1" stop-color="#d89d99"/></linearGradient>
+  <linearGradient id="hongxing-leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#abb79a"/><stop offset="1" stop-color="#5f785b"/></linearGradient>
+  <linearGradient id="hongxing-ink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#536058"/><stop offset=".6" stop-color="#303c35"/><stop offset="1" stop-color="#19231d"/></linearGradient>
+  <filter id="hongxing-shadow" x="-35%" y="-35%" width="170%" height="190%"><feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#35443c" flood-opacity=".12"/></filter>
+  <filter id="hongxing-smallshadow" x="-40%" y="-40%" width="180%" height="200%"><feDropShadow dx="0" dy="7" stdDeviation="7" flood-color="#35443c" flood-opacity=".1"/></filter>
+  <filter id="hongxing-blur" x="-30%" y="-100%" width="160%" height="300%"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="800" height="600" fill="#fff"/>
+<ellipse cx="400" cy="518" rx="224" ry="19" fill="#273933" opacity=".075" filter="url(#hongxing-blur)"/>
+<g filter="url(#hongxing-shadow)">
+  <path d="m204 468 296-56 135 56-299 60Z" fill="url(#hongxing-paper)" stroke="#e3e7e5"/>
+  <path d="m204 468 132 60v16l-132-61Z" fill="#e6eae8"/>
+  <path d="m336 528 299-60v16l-299 60Z" fill="#dce4df"/>
+</g>
+<g filter="url(#hongxing-shadow)">
+  <path d="M465 448V234a101 101 0 0 1 202 0v214l-29-16V235a72 72 0 0 0-144 0v197Z" fill="url(#hongxing-accentSoft)"/>
+  <path d="M438 435V220a101 101 0 0 1 202 0v215h-36V220a65 65 0 0 0-130 0v215Z" fill="url(#hongxing-paper)" stroke="#e4dfdd"/>
+  <path d="m604 435 34 13V234a72 72 0 0 0-34-61v262Z" fill="url(#hongxing-accentSoft)"/>
+  <path d="m474 435 24-8V221a41 41 0 0 1 6-24 65 65 0 0 0-30 23v215Z" fill="#dbe2de"/>
+</g>
+<g filter="url(#hongxing-shadow)">
+  <path d="M321 465c-65 10-132-31-137-104-5-68 44-116 102-100 15 4 25 8 35 8s24-8 45-8c63-1 91 53 81 114-10 66-66 103-126 90Z" fill="url(#hongxing-accent)"/>
+  <path d="M323 280c-18 42-11 122 2 171" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".27"/>
+  <path d="M318 269c-6-29-10-48-27-61" fill="none" stroke="#5b6650" stroke-width="10" stroke-linecap="round"/>
+  <path d="M319 244c0-71 66-104 121-92-15 59-60 99-121 92Z" fill="url(#hongxing-leaf)"/>
+  <path d="m325 236 85-64" fill="none" stroke="#fff" stroke-width="2" opacity=".36"/>
+</g>
+<path d="M170 347c-38-24-50-59-45-92 36 5 68 43 45 92Z" fill="url(#hongxing-paper)" stroke="#e3e8e5"/>
+<path d="m134 273 29 61" fill="none" stroke="#cbd5ce" stroke-width="2"/>
+<path d="M594 99c13-11 30-12 45-9-5 18-23 30-42 25Z" fill="url(#hongxing-accentSoft)"/>
+
+</svg>
